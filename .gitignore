@@ -157,6 +157,8 @@ coverage-html
 !.yarn/plugins
 !.yarn/releases
 !.yarn/sdks
+    // view es
+
 !.yarn/versions
 
 .snapshot/
